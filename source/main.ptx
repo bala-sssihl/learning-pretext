@@ -5,8 +5,8 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>Sairam</title>
-    <subtitle>An example to get you started</subtitle>
+    <title>Crucial Math for Deep Learning</title>
+    <subtitle>An Interactive Journey</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
